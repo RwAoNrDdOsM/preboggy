@@ -1,0 +1,11 @@
+mod = [
+	"preboggy"
+]
+
+package = [
+	"resource_packages/preboggy/preboggy"
+]
+
+lua = [
+	"scripts/mods/preboggy/*"
+]
